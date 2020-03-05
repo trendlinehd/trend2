@@ -16,6 +16,7 @@
 		546ECCD2240CB0D7002D8672 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 546ECCD0240CB0D7002D8672 /* LaunchScreen.storyboard */; };
 		546ECCDD240CB0D8002D8672 /* trendlineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546ECCDC240CB0D8002D8672 /* trendlineTests.swift */; };
 		546ECCE8240CB0D8002D8672 /* trendlineUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546ECCE7240CB0D8002D8672 /* trendlineUITests.swift */; };
+		840D0C6A2410E2BC00EEC679 /* Ppredition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840D0C692410E2BC00EEC679 /* Ppredition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		546ECCE3240CB0D8002D8672 /* trendlineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = trendlineUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		546ECCE7240CB0D8002D8672 /* trendlineUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trendlineUITests.swift; sourceTree = "<group>"; };
 		546ECCE9240CB0D8002D8672 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		840D0C692410E2BC00EEC679 /* Ppredition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ppredition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				546ECCC5240CB0D6002D8672 /* AppDelegate.swift */,
 				546ECCC7240CB0D6002D8672 /* SceneDelegate.swift */,
+				840D0C692410E2BC00EEC679 /* Ppredition.swift */,
 				546ECCC9240CB0D6002D8672 /* ContentView.swift */,
 				12CE07B32410DFCC003DA224 /* preet.swift */,
 				546ECCCB240CB0D7002D8672 /* Assets.xcassets */,
@@ -270,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				840D0C6A2410E2BC00EEC679 /* Ppredition.swift in Sources */,
 				546ECCC6240CB0D6002D8672 /* AppDelegate.swift in Sources */,
 				546ECCC8240CB0D6002D8672 /* SceneDelegate.swift in Sources */,
 				12CE07B42410DFCC003DA224 /* preet.swift in Sources */,
