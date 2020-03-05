@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		12CE07B42410DFCC003DA224 /* preet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12CE07B32410DFCC003DA224 /* preet.swift */; };
 		546ECCC6240CB0D6002D8672 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546ECCC5240CB0D6002D8672 /* AppDelegate.swift */; };
 		546ECCC8240CB0D6002D8672 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546ECCC7240CB0D6002D8672 /* SceneDelegate.swift */; };
 		546ECCCA240CB0D6002D8672 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546ECCC9240CB0D6002D8672 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		12CE07B32410DFCC003DA224 /* preet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = preet.swift; sourceTree = "<group>"; };
 		546ECCC2240CB0D6002D8672 /* trendline.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = trendline.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		546ECCC5240CB0D6002D8672 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		546ECCC7240CB0D6002D8672 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				546ECCC5240CB0D6002D8672 /* AppDelegate.swift */,
 				546ECCC7240CB0D6002D8672 /* SceneDelegate.swift */,
 				546ECCC9240CB0D6002D8672 /* ContentView.swift */,
+				12CE07B32410DFCC003DA224 /* preet.swift */,
 				546ECCCB240CB0D7002D8672 /* Assets.xcassets */,
 				546ECCD0240CB0D7002D8672 /* LaunchScreen.storyboard */,
 				546ECCD3240CB0D7002D8672 /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				546ECCC6240CB0D6002D8672 /* AppDelegate.swift in Sources */,
 				546ECCC8240CB0D6002D8672 /* SceneDelegate.swift in Sources */,
+				12CE07B42410DFCC003DA224 /* preet.swift in Sources */,
 				546ECCCA240CB0D6002D8672 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
