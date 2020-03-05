@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack{
-         Text("Text from Harpreet")
+         Text("Text from Harpreet kaur's computer")
         Text("Hello, World from deep computer!")
     }
 }
