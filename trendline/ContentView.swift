@@ -10,8 +10,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        VStack{
+         Text("Text from Harpreet")
         Text("Hello, World from deep computer!")
     }
+}
 }
 
 struct ContentView_Previews: PreviewProvider {
