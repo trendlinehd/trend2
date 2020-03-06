@@ -13,6 +13,7 @@ struct ContentView: View {
         VStack{
          Text("Text from Harpreet kaur's computer")
         Text("Hello, World from deep computer!")
+            Text("Hello, World from Colin computer!")
     }
 }
 }
