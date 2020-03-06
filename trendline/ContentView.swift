@@ -14,6 +14,8 @@ struct ContentView: View {
          Text("Text from Harpreet kaur's computer")
         Text("Hello, World from deep computer!")
             Text("Hello, World from Colin computer!")
+            Text("Hello, World from Colin computer again!")
+
     }
 }
 }
